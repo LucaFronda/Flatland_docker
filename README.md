@@ -16,6 +16,8 @@ p.s. Be sure to have CUDA working on your machine!
 
 # 2- Define the dockerfile and the requirements.txt
 
+Choose the right cuda version...
+
 # 3- Build the docker-image
 
 docker build -t choose-an-image-name .
